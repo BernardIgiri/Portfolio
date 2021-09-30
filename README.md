@@ -1,6 +1,7 @@
 # Portfolio
 
 * [Practicing Rust](https://github.com/BernardIgiri/learn_more_rust)
+* [GoDot Action RPG Game](https://github.com/BernardIgiri/GodotActionRPGTutorial)
 * [AES encyrption utility for configuration files in Go Lang](https://github.com/BernardIgiri/cfgcrypt)
 * [React Redux Tutorial Practice](https://github.com/BernardIgiri/learnReactJS)
 * [AES encryption demonstration in Python & Java](https://github.com/BernardIgiri/PythonToJavaAESEncryptDecrypt)
