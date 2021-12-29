@@ -1,6 +1,6 @@
 # Portfolio
 
-* [Rust GTK Text Editor](https://github.com/BernardIgiri/TextEdit)
+* [Rust GTK3 Text Editor](https://github.com/BernardIgiri/TextEdit)
 * [GoDot Action RPG Game](https://github.com/BernardIgiri/GodotActionRPGTutorial)
 * [AES encyrption utility for configuration files in Go Lang](https://github.com/BernardIgiri/cfgcrypt)
 * [React Redux Tutorial Practice](https://github.com/BernardIgiri/learnReactJS)
