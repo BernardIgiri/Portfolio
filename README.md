@@ -1,6 +1,6 @@
 # Portfolio
 
-* [Rust GTK3 Text Editor](https://github.com/BernardIgiri/TextEdit)
+* [Rust GTK4 Text Editor](https://github.com/BernardIgiri/TextEdit2)
 * [GoDot Action RPG Game](https://github.com/BernardIgiri/GodotActionRPGTutorial)
 * [AES encyrption utility for configuration files in Go Lang](https://github.com/BernardIgiri/cfgcrypt)
 * [Pangolin Face Recongition Login Demo](https://github.com/BernardIgiri/pangolin)
