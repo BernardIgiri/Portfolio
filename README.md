@@ -3,6 +3,7 @@
 * [Rust GTK3 Text Editor](https://github.com/BernardIgiri/TextEdit)
 * [GoDot Action RPG Game](https://github.com/BernardIgiri/GodotActionRPGTutorial)
 * [AES encyrption utility for configuration files in Go Lang](https://github.com/BernardIgiri/cfgcrypt)
+* [Pangolin Face Recongition Login Demo](https://github.com/BernardIgiri/pangolin)
 * [React Redux Tutorial Practice](https://github.com/BernardIgiri/learnReactJS)
 * [AES encryption demonstration in Python & Java](https://github.com/BernardIgiri/PythonToJavaAESEncryptDecrypt)
 * [Raffle ticket Android app in Java, PHP & MySQL](https://github.com/BernardIgiri/archive-RaffleTicketApp)
