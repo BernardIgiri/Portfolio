@@ -23,6 +23,7 @@ Welcome to my project portfolio. I specialize in Rust, systems programming, cros
 
 ### deferred-cell
 [top](#bernard-igiris-github-portfolio)
+
 Write-once, late-initialized cyclic graphs in Rust.  
 🔧 [Repo](https://github.com/BernardIgiri/deferred-cell)
 
@@ -37,6 +38,7 @@ Write-once, late-initialized cyclic graphs in Rust.
 
 ### text-adventure-game
 [top](#bernard-igiris-github-portfolio)
+
 A Rust-powered engine for interactive text-based adventures.  
 🔧 [Repo](https://github.com/BernardIgiri/text-adventure-game)
 
@@ -51,6 +53,7 @@ A Rust-powered engine for interactive text-based adventures.
 
 ### TextEdit2
 [top](#bernard-igiris-github-portfolio)
+
 Simple desktop text editor built using GTK4 and Rust.  
 🔧 [Repo](https://github.com/BernardIgiri/TextEdit2)
 
@@ -65,6 +68,7 @@ Simple desktop text editor built using GTK4 and Rust.
 
 ### zellij-layout-generator
 [top](#bernard-igiris-github-portfolio)
+
 CLI tool to generate custom Zellij layout files from TOML configs.  
 🔧 [Repo](https://github.com/BernardIgiri/zellij-layout-generator)
 
@@ -81,6 +85,7 @@ CLI tool to generate custom Zellij layout files from TOML configs.
 
 ### cfgcrypt
 [top](#bernard-igiris-github-portfolio)
+
 AES encryption utility for config files.  
 🔧 [Repo](https://github.com/BernardIgiri/cfgcrypt)
 
@@ -95,6 +100,7 @@ AES encryption utility for config files.
 
 ### restfulUserAuth
 [top](#bernard-igiris-github-portfolio)
+
 RESTful user authentication microservice.  
 🔧 [Repo](https://github.com/BernardIgiri/restfulUserAuth)
 
@@ -111,6 +117,7 @@ RESTful user authentication microservice.
 
 ### Godot Action RPG
 [top](#bernard-igiris-github-portfolio)
+
 Action RPG game based on HeartBeast’s tutorial.  
 🔧 [Repo](https://github.com/BernardIgiri/GodotActionRPGTutorial)
 
@@ -127,6 +134,7 @@ Action RPG game based on HeartBeast’s tutorial.
 
 ### learnReactJS
 [top](#bernard-igiris-github-portfolio)
+
 React and Redux learning playground.  
 🔧 [Repo](https://github.com/BernardIgiri/learnReactJS)
 
@@ -141,6 +149,7 @@ React and Redux learning playground.
 
 ### Rich Text Editor
 [top](#bernard-igiris-github-portfolio)
+
 Basic in-browser WYSIWYG editor.  
 🔧 [Repo](https://github.com/BernardIgiri/archive-RichTextEditor)
 
@@ -157,6 +166,7 @@ Basic in-browser WYSIWYG editor.
 
 ### Python to Java AES Encrypt/Decrypt
 [top](#bernard-igiris-github-portfolio)
+
 Cross-language encryption demo.  
 🔧 [Repo](https://github.com/BernardIgiri/PythonToJavaAESEncryptDecrypt)
 
@@ -171,6 +181,7 @@ Cross-language encryption demo.
 
 ### SynoSnap
 [top](#bernard-igiris-github-portfolio)
+
 Snapshot-style backup script for Synology.  
 🔧 [Repo](https://github.com/BernardIgiri/SynoSnap)
 
@@ -187,6 +198,7 @@ Snapshot-style backup script for Synology.
 
 ### Robot Car Navigation
 [top](#bernard-igiris-github-portfolio)
+
 Full-stack robot control and obstacle avoidance.  
 🔧 [Repo](https://github.com/BernardIgiri/archive-RobotCarNavigation)
 
@@ -203,6 +215,7 @@ Full-stack robot control and obstacle avoidance.
 
 ### Raffle Ticket App
 [top](#bernard-igiris-github-portfolio)
+
 Mobile raffle app with full backend.  
 🔧 [Repo](https://github.com/BernardIgiri/archive-RaffleTicketApp)
 
@@ -235,6 +248,7 @@ Cross-platform 3D renderer in C++ & OpenGL.
 
 ### Pangolin
 [top](#bernard-igiris-github-portfolio)
+
 Face recognition login demo.  
 🔧 [Repo](https://github.com/BernardIgiri/pangolin)
 
