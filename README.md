@@ -12,8 +12,8 @@ Welcome to my project portfolio. I specialize in Rust, systems programming, cros
 | 🐹 **Go**            | [cfgcrypt](#cfgcrypt), [restfulUserAuth](#restfuluserauth)                             |
 | 🎮 **Godot (GDScript)** | [Godot Action RPG](#godot-action-rpg)                                                    |
 | ⚛️ **JavaScript/React** | [learnReactJS](#learnreactjs), [Rich Text Editor](#rich-text-editor)                     |
-| 🐍 **Python**         | [PythonToJavaAESEncryptDecrypt](#python-to-java-aes-encrypt-decrypt), [SynoSnap](#synosnap), [RobotCarNavigation](#robot-car-navigation) |
-| ☕ **Java**            | [RaffleTicketApp](#raffle-ticket-app), [PythonToJavaAESEncryptDecrypt](#python-to-java-aes-encrypt-decrypt) |
+| 🐍 **Python**         | [PythonToJavaAESEncryptDecrypt](#python-to-java-aes-encryptdecrypt), [SynoSnap](#synosnap), [RobotCarNavigation](#robot-car-navigation) |
+| ☕ **Java**            | [RaffleTicketApp](#raffle-ticket-app), [PythonToJavaAESEncryptDecrypt](#python-to-java-aes-encryptdecrypt) |
 | 🧵 **C++**             | [3D Graphics Engine](#3d-graphics-engine), [RobotCarNavigation](#robot-car-navigation)    |
 | 🧐 **AI / Vision**       | [Pangolin](#pangolin)                                                                     |
 
