@@ -1,6 +1,7 @@
 # Bernard Igiri's GitHub Portfolio
 
-Welcome to my project portfolio. I’m a full-stack software engineer with over two decades of software development experience, building cutting-edge systems; from high-performance web apps and geospatial tools to secure platforms and developer-friendly frameworks. My work spans Rust, systems programming, web development, cloud infrastructure, and cross-language interoperability. For a detailed bio please visit my blog's about me page at: https://yequalscode.com/about-the-author
+Welcome to my project portfolio. I’m a full-stack software engineer with over two decades of software development experience, building cutting-edge systems; from high-performance web apps and geospatial tools to secure platforms and developer-friendly frameworks. My work spans Rust, systems programming, web development, cloud infrastructure, and cross-language interoperability. For a detailed bio please visit my blog's about me page at:
+- https://yequalscode.com/about-the-author
 
 Below you'll find selected personal and professional projects, grouped by technology with descriptions and links.
 
