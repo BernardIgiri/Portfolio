@@ -22,6 +22,15 @@ Below you'll find selected personal and professional projects, grouped by techno
 
 ---
 
+## 🌐 Live Websites
+
+- [Iron Oxide Labs LLC](https://ironoxidelabs.com) - Government contracting business.
+- [Vernell Taylor](https://vernelltaylor.com) - Memorial page for the passing of Vernell Taylor.
+- [Teddy's Roti Shop](https://teddysrotishop.com) - Landing page for Teddy's Roti Shop restaurant.
+- [Y = Code](https://yequalscode.com) - Professional blog about technology, software engineering, and the tech industry.
+
+---
+
 ## 🦀 Rust
 
 ### Deferred Cell
