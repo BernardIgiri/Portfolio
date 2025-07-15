@@ -76,6 +76,7 @@ A Rust-powered engine for interactive text-based adventures.
 - Game defined entirely via `.ini` files
 - Entity schema enabling dynamic world building
 - Precompiled binaries for all major platforms
+- i18n support for multiple languages
 
 ---
 
