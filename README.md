@@ -13,7 +13,7 @@ Below you'll find selected personal and professional projects, grouped by techno
 |----------------------|--------------------------------------------------------------------------|
 | 🦀 **Rust**          | [Deferred Cell](#deferred-cell), [KDE Activity Script Selector](#kde-activity-script-selector) [Text Adventure Game](#text-adventure-game), [Text Edit 2](#text-edit-2), [Zellij Layout Generator](#zellij-layout-generator) |
 | 🐹 **Go**            | [cfgcrypt](#cfgcrypt), [Restful User Auth](#restful-user-auth)                             |
-| 🎮 **Godot (GDScript)** | [Godot Action RPG](#godot-action-rpg)                                                    |
+| 🎮 **Godot** | [Godot Action RPG](#godot-action-rpg)                                                    |
 | ⚛️ **JavaScript/React** | [Learn React JS](#learn-react-js), [Rich Text Editor](#rich-text-editor)                     |
 | 🐍 **Python**         | [Python To Java AES Encrypt Decrypt](#python-to-java-aes-encrypt-decrypt), [SynoSnap](#synosnap), [Robot Car Navigation](#robot-car-navigation) |
 | ☕ **Java**            | [Raffle Ticket App](#raffle-ticket-app), [Python To Java AES Encrypt Decrypt](#python-to-java-aes-encryptdecrypt) |
