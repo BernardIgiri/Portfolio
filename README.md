@@ -1,6 +1,8 @@
 # Bernard Igiri's GitHub Portfolio
 
-Welcome to my project portfolio. I specialize in Rust, systems programming, cross-language interoperability, game engines, cryptography, and real-time systems. Below you'll find selected personal and professional projects, grouped by technology with descriptions and links.
+Welcome to my project portfolio. I’m a full-stack software engineer with over two decades of software development experience, building cutting-edge systems—from high-performance web apps and geospatial tools to secure platforms and developer-friendly frameworks. My work spans Rust, systems programming, web development, cloud infrastructure, and cross-language interoperability. For a detailed bio please visit my blog's about me page at: https://yequalscode.com/about-the-author
+
+Below you'll find selected personal and professional projects, grouped by technology with descriptions and links.
 
 ---
 
@@ -8,20 +10,20 @@ Welcome to my project portfolio. I specialize in Rust, systems programming, cros
 
 | Language/Tech        | Projects                                                                 |
 |----------------------|--------------------------------------------------------------------------|
-| 🦀 **Rust**          | [deferred-cell](#deferred-cell), [text-adventure-game](#text-adventure-game), [TextEdit2](#textedit2), [zellij-layout-generator](#zellij-layout-generator) |
-| 🐹 **Go**            | [cfgcrypt](#cfgcrypt), [restfulUserAuth](#restfuluserauth)                             |
+| 🦀 **Rust**          | [Deferred Cell](#deferred-cell), [KDE Activity Script Selector](#kde-activity-script-selector) [Text Adventure Game](#text-adventure-game), [Text Edit 2](#text-edit-2), [Zellij Layout Generator](#zellij-layout-generator) |
+| 🐹 **Go**            | [cfgcrypt](#cfgcrypt), [Restful User Auth](#restful-user-auth)                             |
 | 🎮 **Godot (GDScript)** | [Godot Action RPG](#godot-action-rpg)                                                    |
-| ⚛️ **JavaScript/React** | [learnReactJS](#learnreactjs), [Rich Text Editor](#rich-text-editor)                     |
-| 🐍 **Python**         | [PythonToJavaAESEncryptDecrypt](#python-to-java-aes-encryptdecrypt), [SynoSnap](#synosnap), [RobotCarNavigation](#robot-car-navigation) |
-| ☕ **Java**            | [RaffleTicketApp](#raffle-ticket-app), [PythonToJavaAESEncryptDecrypt](#python-to-java-aes-encryptdecrypt) |
-| 🧵 **C++**             | [3D Graphics Engine](#3d-graphics-engine), [RobotCarNavigation](#robot-car-navigation)    |
+| ⚛️ **JavaScript/React** | [Learn React JS](#learn-react-js), [Rich Text Editor](#rich-text-editor)                     |
+| 🐍 **Python**         | [Python To Java AES Encrypt Decrypt](#python-to-java-aes-encrypt-decrypt), [SynoSnap](#synosnap), [Robot Car Navigation](#robot-car-navigation) |
+| ☕ **Java**            | [Raffle Ticket App](#raffle-ticket-app), [Python To Java AES Encrypt Decrypt](#python-to-java-aes-encryptdecrypt) |
+| 🧵 **C++**             | [3D Graphics Engine](#3d-graphics-engine), [Robot Car Navigation](#robot-car-navigation)    |
 | 🧐 **AI / Vision**       | [Pangolin](#pangolin)                                                                     |
 
 ---
 
 ## 🦀 Rust
 
-### deferred-cell
+### Deferred Cell
 [top](#bernard-igiris-github-portfolio)
 
 Write-once, late-initialized cyclic graphs in Rust.  
@@ -36,7 +38,23 @@ Write-once, late-initialized cyclic graphs in Rust.
 
 ---
 
-### text-adventure-game
+### KDE Activity Script Selector
+
+[top](https://chatgpt.com/g/g-p-6864422fdefc8191ac3a3ec9ffa48d9f-github-portfolio/c/6876bf76-6cf4-8004-9ea5-cd6f1174768b#bernard-igiris-github-portfolio)
+
+Relm4-based desktop GUI tool for assigning shell scripts to KDE Activity lifecycle events.
+ 🔧 [Repo](https://github.com/BernardIgiri/kas-selector)
+
+**Tech**: Rust, GTK4, Relm4, KDE, Fluent
+
+**Features**:
+
+- Assign `.sh` scripts to `started`, `activated`, `deactivated`, and `stopped` events
+- Desktop GUI
+- i18n support for multiple language translations
+- Designed for KDE Plasma 6
+
+### Text Adventure Game
 [top](#bernard-igiris-github-portfolio)
 
 A Rust-powered engine for interactive text-based adventures.  
@@ -51,7 +69,7 @@ A Rust-powered engine for interactive text-based adventures.
 
 ---
 
-### TextEdit2
+### Text Edit 2
 [top](#bernard-igiris-github-portfolio)
 
 Simple desktop text editor built using GTK4 and Rust.  
@@ -66,7 +84,7 @@ Simple desktop text editor built using GTK4 and Rust.
 
 ---
 
-### zellij-layout-generator
+### Zellij Layout Generator
 [top](#bernard-igiris-github-portfolio)
 
 CLI tool to generate custom Zellij layout files from TOML configs.  
@@ -98,7 +116,7 @@ AES encryption utility for config files.
 
 ---
 
-### restfulUserAuth
+### Restful User Auth
 [top](#bernard-igiris-github-portfolio)
 
 RESTful user authentication microservice.  
@@ -132,7 +150,7 @@ Action RPG game based on HeartBeast’s tutorial.
 
 ## ⚛️ JavaScript / Web
 
-### learnReactJS
+### Learn React JS
 [top](#bernard-igiris-github-portfolio)
 
 React and Redux learning playground.  
